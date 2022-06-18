@@ -1,4 +1,4 @@
-## 👋 Hi, Harendra SIngh Negi  here.
+## 👋 Hi, Harendra Singh Negi  here.
 - Computer Science Undergraduate with Creative Thinking, Strong Analytical & Software Development Skills
 - Interested in Full Stack Web & Problem Solving.
 - I love to learn new skills, develop software.
@@ -9,13 +9,12 @@
 - Other Programming languages I work on - C, C++, and [ Python,React Native,Android (beginner)]
 
 ### 🌱 Hobbies
-- Developing Software (in Real) 👨‍💻
+- Developing Software  👨‍💻
 - Cooking Delicious Food 😋
 
 🤝 Would Love to Collaborate on Projects related to Javascript
 
 ### 📫 Get in touch 
 - harendrasinghnegu83@gmail.com
-- https://www.linkedin.com/in/hsnegi/
-- https://www.instagram.com/harendrasinghnegi/
-
+- https://www.linkedin.com/in/hsnegi
+- https://www.instagram.com/harendrasinghnegi
